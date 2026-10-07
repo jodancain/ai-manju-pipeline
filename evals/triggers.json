@@ -1,0 +1,10 @@
+{
+  "skill": "ai-manju-pipeline",
+  "test_cases": [
+    {"input": "把这个 AI 漫剧做成前后一致的短片", "should_trigger": true},
+    {"input": "角色设定表怎么写才能不换脸", "should_trigger": true},
+    {"input": "给这段 15 秒动画补时间戳和镜头", "should_trigger": true},
+    {"input": "帮我画一张海报", "should_trigger": false},
+    {"input": "解释一下什么是扩散模型", "should_trigger": false}
+  ]
+}
