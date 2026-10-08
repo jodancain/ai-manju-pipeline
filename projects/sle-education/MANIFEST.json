@@ -1,0 +1,680 @@
+{
+  "format_version": 1,
+  "scope": "SLE educational materials",
+  "files_excluding_manifest": 76,
+  "image_files": 54,
+  "files": [
+    {
+      "path": "ASSET_INDEX.md",
+      "bytes": 1593,
+      "sha256": "2c12acc3946a9d8a31f6f19e6c241a8e5f1bfd8070133dfdf93ed36a83024ae0",
+      "git_blob_sha1": "b71b22fafb69af818b826e5c2ea2b8c44042b0b5"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2034,
+      "sha256": "50b6d8334ee82c1ba7aa8acd002a83383acf3128f35f49259e0ac81e93094232",
+      "git_blob_sha1": "747d07c88c453398d10d13988d7de831864f097e"
+    },
+    {
+      "path": "assets/current/characters/doctor-four-views.png",
+      "bytes": 1933441,
+      "sha256": "69997b0fc0dee2eaa014949a8e485572c0f0e68f6602f2e35045541ec773fb87",
+      "git_blob_sha1": "52a31ea56e78db522fa42f91656869ebae7473d7",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/characters/patient-four-views.png",
+      "bytes": 2394470,
+      "sha256": "c9f5d7b98642c6d8960a18b6f83c59116fcbfab5bb969ca7f8ad3a8995a92677",
+      "git_blob_sha1": "62e8ae40f517ae02377a1768b720fd6ac5a9c8fd",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/scenes/01-makeup-mirror.png",
+      "bytes": 1903840,
+      "sha256": "16c5183fcfbf0e5d15e38c83931488df31b922de3ce14c477ae57f596796c6db",
+      "git_blob_sha1": "88977f06ba567a15c235670bb55f4159c7ea9a8b",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/scenes/02-06-symptom-montage.png",
+      "bytes": 2147545,
+      "sha256": "2111c2f73ea07fe092700310af8c4e6d8541889786bc639e455c278772d7c975",
+      "git_blob_sha1": "a80a081757de213d9ee8812d8db13fb78b78816e",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/scenes/07-08-immune-system.png",
+      "bytes": 2191722,
+      "sha256": "247d9a1dacee75ce41617724b702da76c74ee5888d912938839b191ef7a96e8e",
+      "git_blob_sha1": "4377b7ab5011e57b1a5d6dbb409f3468d6894e0b",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/scenes/09-symptoms-guide.png",
+      "bytes": 1649360,
+      "sha256": "d2d96fe55a80bdf8043be35574f4fe6282bedf44a28caa071e964b0b94b24f81",
+      "git_blob_sha1": "470e26fcd1a7e55d8fba4ba61271f4b6047c8421",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/scenes/10-sun-protection.png",
+      "bytes": 2337931,
+      "sha256": "0e16ce58878541ffa1953fe20780062177f447bf0cbb641ee5c2379048f8d4ce",
+      "git_blob_sha1": "0c95cec108261629f2aea356c8e307ae03f68742",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/scenes/11-clinic-review.png",
+      "bytes": 1861539,
+      "sha256": "181f580f28ae6f9159cd4265a2b1bd8ff0a8c238615d071e738a0c33d420fd48",
+      "git_blob_sha1": "00eabeea6653ac70677b2424e370a3e00ac9633c",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/scenes/13-health-reminders.png",
+      "bytes": 1469729,
+      "sha256": "dc291cada67f82943b59df45cc2aefac441698d6c5fd127cd35d44a93ae661d5",
+      "git_blob_sha1": "3034b5a9caa9695ec97c477dfabf85bcfe805ddb",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "assets/current/scenes/14-doctor-outro.png",
+      "bytes": 1693124,
+      "sha256": "c77c399cf1ea5f4619015894f6e9bb858905d2f458c46dd9209c0b7b79471219",
+      "git_blob_sha1": "fcc93c446c8b47417aa111ca81d71225f379215d",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/README_先看.md",
+      "bytes": 2916,
+      "sha256": "e0278431eefebe6d0b4014853ae0683ddff5eb94de3dd194ea9172dd4388c5f1",
+      "git_blob_sha1": "0cd0e38fa6bf4bcb703801e27f8a12b548f230c5"
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S01_00-04_镜前遮瑕.png",
+      "bytes": 1059420,
+      "sha256": "bdf8b5c2aa15fdbdad0e8534cc14a8bb023ec33c2b7026cf5f1356b6f493a8e9",
+      "git_blob_sha1": "c8eba6d0377a6e13e2c942f7b3d6302ceb62c36c",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S02_04-06_涂防晒.png",
+      "bytes": 739728,
+      "sha256": "ef6ffdaad311c87abbf480f5b220e05c6437650002848d8a2e77c5a9484e46a6",
+      "git_blob_sha1": "91a2772d62b1210ad0e14834f57391f1c17a3ae4",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S03_06-08_梳头掉发.png",
+      "bytes": 738652,
+      "sha256": "a2e25715a1cebbe5979dded453fe03047d2d0f60fc45a7749817fa3b3bf48fd7",
+      "git_blob_sha1": "3462bf46c99fd45dd72cc56162723d603d97cb4b",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S04_08-10_爬楼关节痛.png",
+      "bytes": 680155,
+      "sha256": "0d845972e809277ca0e422eb47e71cf5198f192bd122bc6ea2d2921e029d076e",
+      "git_blob_sha1": "c8bafd04700eff7c286c5324622b2ed9ccf92cf7",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S05_10-11_口腔不适示意.png",
+      "bytes": 362476,
+      "sha256": "824b3af0d3d7c7aab219724b39894a1cd048c48c12af394eca894d2709daa8ae",
+      "git_blob_sha1": "773cb66b9e1b9d4ad1a719ceaba0d087cb9968d8",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S06_11-12_泡沫尿示意.png",
+      "bytes": 325805,
+      "sha256": "efe0ca263f6be1c348816c9884797b042cb07527022e3f9ff31e96a176e1909d",
+      "git_blob_sha1": "299571f1e27e7a44b061ee65dd4a6592a748739f",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S07_12-17_免疫正常识别.png",
+      "bytes": 603909,
+      "sha256": "92e883beb06a6d178b52b542593ce939545e34c65034b118bff41d04ca7c807f",
+      "git_blob_sha1": "9ad54267873e4170828ac2b42f12e52453ab9245",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S08_17-22_免疫误伤自身.png",
+      "bytes": 487118,
+      "sha256": "dccba535421fc3ad82e55afcf96fdaffebfbbee4ff5d43d752b305d78259c8af",
+      "git_blob_sha1": "03554743db87ab16fa7414b3a89fa3b41d242562",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S09_22-35_症状清单.png",
+      "bytes": 832251,
+      "sha256": "0a94919938a66f00c1a90d8496190cf28cbb7603ef47195c629a59749bcdb72d",
+      "git_blob_sha1": "3df3a936908ad4209028baa616a79f32389001d6",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S10_35-42_打伞户外.png",
+      "bytes": 847842,
+      "sha256": "896d14d19ed9672c7324952d177e124d1247f10bbd1b071bcf17a7b7eee9c094",
+      "git_blob_sha1": "88d02bdb1e8572336c5b6337ca1296facbb05fdb",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S11_42-46_诊室交流.png",
+      "bytes": 660596,
+      "sha256": "804df357df7ec213470dd5d38a88b865378bfed110ed7c013296bffb77921fff",
+      "git_blob_sha1": "fe3de629b578b6f02a4fc32fc64c8f2eda657513",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S12_46-48_复查日历.png",
+      "bytes": 497886,
+      "sha256": "1c9c8d31f77f3393f6ba91e8578fb745c2131d90e9fe66f9bdecde8b8cfda684",
+      "git_blob_sha1": "ebaf4fdcd049374108364d9887a43abe7f4ea25d",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S13_48-56_三项健康提醒.png",
+      "bytes": 663105,
+      "sha256": "ddf6bf4e9fc671820fe1e5e6504394d2b10935b295a419d2c5876554f2ac375c",
+      "git_blob_sha1": "8a812dad37d1d4f6bd2fad394b8d775902d25da6",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S14_56-60_医生结束语.png",
+      "bytes": 873148,
+      "sha256": "d93bada1ca7e9081b057f895020eabffaeee2ada3c13e196720d23c921b97c54",
+      "git_blob_sha1": "8a1a86dd010b91238658c1f1081e9c944f1e4886",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S15_备用_户外城市落日.png",
+      "bytes": 661695,
+      "sha256": "5d4c8a7622683d9743e4618febf89f5aaa45865373c3b55f4941f9d49c4ea681",
+      "git_blob_sha1": "93052062d957fc7ff13b2d1b2afd7499df8ad659",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/竖屏预览/S16_备用_医疗器官图标.png",
+      "bytes": 372002,
+      "sha256": "c67ad21f20d002b7d16d6878e118d7ec5125e9976702ef390956808b2397786a",
+      "git_blob_sha1": "ae04a5eec5acbcec22b3dc8c99467f63c4958bab",
+      "dimensions": [
+        1080,
+        1920
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S01_00-04_镜前遮瑕.png",
+      "bytes": 112399,
+      "sha256": "5f66b7daee8f6848ba5f351c586ac059eb98d07624fd816b7cec51165e42ea5a",
+      "git_blob_sha1": "c24f8e1afcd970298f9cbb5638271dbf2393a244",
+      "dimensions": [
+        219,
+        328
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S02_04-06_涂防晒.png",
+      "bytes": 25174,
+      "sha256": "e82e2d1bf7a4b2a9eaea980647155b3b04ea94d7c71f78ff2de90640627f56ab",
+      "git_blob_sha1": "e9f7bc6e3eb143a37d2c9c595b42793c22d6bd09",
+      "dimensions": [
+        104,
+        132
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S03_06-08_梳头掉发.png",
+      "bytes": 25957,
+      "sha256": "cb545572a4df1c898289ccd7fd18772140ee8fa7147f044fc3601723cdf92fa7",
+      "git_blob_sha1": "b897161fa409ebcacfbd5253bb191a5bec59f470",
+      "dimensions": [
+        112,
+        129
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S04_08-10_爬楼关节痛.png",
+      "bytes": 30665,
+      "sha256": "8e04a6c034ab761c609c593cab2b8fc1851078f438331dec8654bb2f1a17ed62",
+      "git_blob_sha1": "43f6f2f5ca48976f84161deeb52c87f6c86f6eeb",
+      "dimensions": [
+        104,
+        188
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S05_10-11_口腔不适示意.png",
+      "bytes": 14550,
+      "sha256": "dab4456b62dfcbe860d27fcbb92f324438f2d5df52eda347cb2b2d10ff7f11fe",
+      "git_blob_sha1": "1b6b29104440f0f329befd4bf4984fc9730f70d6",
+      "dimensions": [
+        116,
+        94
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S06_11-12_泡沫尿示意.png",
+      "bytes": 14716,
+      "sha256": "0527a30ffc3f93604cd60c6be1573d06e1326b1ae55dce940cb6c3b4ac68bc35",
+      "git_blob_sha1": "d829bf162dcd66d76f4fddd3ec94db304a6c0725",
+      "dimensions": [
+        114,
+        96
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S07_12-17_免疫正常识别.png",
+      "bytes": 56197,
+      "sha256": "cef257e926f19b540a4710e95d481fea361e1c5428dd3e7fc6a5f994cdedc173",
+      "git_blob_sha1": "59bfe4a601cf21792facb85b1f1a88b36f2d3444",
+      "dimensions": [
+        225,
+        172
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S08_17-22_免疫误伤自身.png",
+      "bytes": 46659,
+      "sha256": "5e715830b79587b270e084dc93325941cdac3da4687a9469cb81ce75091af9b5",
+      "git_blob_sha1": "2df7b6002652639107d9efe9816ef047ce09e45c",
+      "dimensions": [
+        221,
+        155
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S09_22-35_症状清单.png",
+      "bytes": 94074,
+      "sha256": "bb340ecd1811d1c2620ed7b70a8706140ab2d7309b6381c0bd8e3d5455853c6b",
+      "git_blob_sha1": "f71bc7f9bf5a41c22992b38ec0816675dce98d01",
+      "dimensions": [
+        223,
+        330
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S10_35-42_打伞户外.png",
+      "bytes": 57618,
+      "sha256": "7c34870d650300f574b89dfc20011fcb1a5698ed39d6a4ce5726dacf2de8246e",
+      "git_blob_sha1": "7bccbb9f01cf542645a1b47bf8dbd4321d9af401",
+      "dimensions": [
+        119,
+        277
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S11_42-46_诊室交流.png",
+      "bytes": 36255,
+      "sha256": "02bf4e3ebe18dbe1b7de2c722e02ee98453671de613ff6e56992a35ebae17f26",
+      "git_blob_sha1": "49dcd0319772de985b0e78f8f165301c31ea13db",
+      "dimensions": [
+        151,
+        143
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S12_46-48_复查日历.png",
+      "bytes": 29855,
+      "sha256": "76bdb7e84ef2275a27ed26f39b9f2fec3bbed6c36b136409d8d4241c49667ae8",
+      "git_blob_sha1": "2346db67eecbe15512cc098fd5fa97ddb6f019a6",
+      "dimensions": [
+        151,
+        134
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S13_48-56_三项健康提醒.png",
+      "bytes": 62977,
+      "sha256": "11744b74a8ffec0a055553e499e76a851e08fe2fe3df245de69868fb38258ed2",
+      "git_blob_sha1": "37bcbb867e06245adc324be0d2802d144bf48b68",
+      "dimensions": [
+        195,
+        282
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S14_56-60_医生结束语.png",
+      "bytes": 89895,
+      "sha256": "1d791842a1fe2afc59e9470da1cb36add7041211e1fdf9a6d394a1d5860a6aef",
+      "git_blob_sha1": "9ac519f0f6f3e7261cbf3067528c77993ff6f4e4",
+      "dimensions": [
+        219,
+        276
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S15_备用_户外城市落日.png",
+      "bytes": 76562,
+      "sha256": "0f831bd6b2314a09d9a3b55046547f129706c9cfcb6763f593666aa8fab3424f",
+      "git_blob_sha1": "090a7f2914fe79c8346bb40adffb5a1018b5a9eb",
+      "dimensions": [
+        243,
+        218
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/分镜示意/镜头参考/S16_备用_医疗器官图标.png",
+      "bytes": 37863,
+      "sha256": "21c7148669cf5843dbb810adbb04314b4be198d97c12d0f83fcbaa7f4fb33144",
+      "git_blob_sha1": "699e602413ccce8cdc5a58c91febdf405def2888",
+      "dimensions": [
+        211,
+        154
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/原稿配音与医学审核提醒.md",
+      "bytes": 1007,
+      "sha256": "5db163beb4b52fc88b7520b757ee33bd2edd9425df9f24c699b2db948255c079",
+      "git_blob_sha1": "abef7778cabdb01de3638b75bd884907f7ebbb40"
+    },
+    {
+      "path": "legacy/original-asset-package/整体设计板/01_60秒时间线分镜总览.png",
+      "bytes": 2135860,
+      "sha256": "81860d70c1b03f5f37a872b642efe2f0a860f477d2c767659973ba92be824024",
+      "git_blob_sha1": "e765c07c529dca921da9127220d0d3da75227edf",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/整体设计板/02_角色场景视觉资产总览.png",
+      "bytes": 2141068,
+      "sha256": "701ee067c6d59f217805ab072826279b77c4976836464d58cdb31e65060f05f3",
+      "git_blob_sha1": "65cefc6777f0592f1337fded125c655cd5a2452c",
+      "dimensions": [
+        940,
+        1672
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/00_全片统一设定.md",
+      "bytes": 1215,
+      "sha256": "39ca934c3d55dd297bbbf944d18b5690b10d1bbef2bca1f63f593adb9221bf64",
+      "git_blob_sha1": "d39f434a5683fc5894e94aea776e2f841b370cca"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S01_00-04_镜前补妆.md",
+      "bytes": 2110,
+      "sha256": "61e7713d2f1266a393773c0b617812daab432c59ec4dd8639d858fba399977b6",
+      "git_blob_sha1": "a82a39e0c34bb311254f0b24022457b5b3a57805"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S02_04-06_涂防晒.md",
+      "bytes": 1874,
+      "sha256": "c5d6891ee095e729769b059aede48b5dcc18d529da927994012c8cf7b36a5893",
+      "git_blob_sha1": "1ba0ee1fd7620745572c4cdb54e12fc15c101d9c"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S03_06-08_梳头掉发.md",
+      "bytes": 1827,
+      "sha256": "6495e255eb5676075bd1ee8ddaff766ee73a1fb71eeda7b465606c0f7f3335b9",
+      "git_blob_sha1": "5de203cdea2b608bdba2d298dd3a1605582697e4"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S04_08-10_爬楼膝盖不适.md",
+      "bytes": 1904,
+      "sha256": "ab417dd03f46dfb2ee3ad0b93b597f6dd1d900a77010c07c1ad4228a5f4d2f0d",
+      "git_blob_sha1": "e17dfcf0b982343404a1b6a992009a38c9cd051e"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S05_10-11_口腔不适示意.md",
+      "bytes": 1763,
+      "sha256": "17a9484003a89551e516c7d0e50c48de00b183c5e65931fbc0181862d3a024e6",
+      "git_blob_sha1": "09f65b9944b50acb5052bba1f1bad0824ed1d2f5"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S06_11-12_泡沫尿示意.md",
+      "bytes": 1799,
+      "sha256": "508815aba6ba847cf3a6543f7e1e707d2d3d639aa35da15d97457cae39278f77",
+      "git_blob_sha1": "af74cb40c0cf9d7b18e94c4d59575f4a175f08ff"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S07_12-17_正常免疫防护.md",
+      "bytes": 1866,
+      "sha256": "94e74ad68b58f253f317ee815e63b05241ae5350f6dada0a1cbca38cc87b608d",
+      "git_blob_sha1": "b2d59d2f8ab3930c91fcc3b4c12df80ab63dfd05"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S08_17-22_免疫误伤自身.md",
+      "bytes": 1892,
+      "sha256": "c77c82ebf820c03273403e3fe2f7f6c3491ca81714e343662e9028fc2c9cc2ef",
+      "git_blob_sha1": "d66e42caee83417ed90bcd999895e78d51787dce"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S09_22-35_六个症状与就医提示.md",
+      "bytes": 1918,
+      "sha256": "3fdca66f706dc215b8fa30059ba2357b26c55fbda1b0359e0f371ae690564246",
+      "git_blob_sha1": "8d15477169f785cb31b70f1b1dfddcc7ed3d5239"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S10_35-42_撑遮阳伞出门.md",
+      "bytes": 1912,
+      "sha256": "849cc602d5018b31f729cd1c238c4497066190e32632863bab95d81daa666608",
+      "git_blob_sha1": "9e8aa31e3f7f5044513d2ea928116cc8944718b2"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S11_42-46_医生沟通复查.md",
+      "bytes": 1906,
+      "sha256": "131ebfba57e6982bfae4f9dee94b6c86bc56de7a0834f6e24787ec6084437b5d",
+      "git_blob_sha1": "d062d0f7d86d4839667623e159128bfe13616400"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S12_46-48_复查日历.md",
+      "bytes": 1787,
+      "sha256": "21f104465aad974903274244ea04079f2907a156f5ba0a7f36973c02a48ada0d",
+      "git_blob_sha1": "c523fed21567f9b91a32c678cde8a1785d2ca519"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S13_48-56_防晒复查不断药.md",
+      "bytes": 1902,
+      "sha256": "d419db02fd7c38357e4c760ec33a06e48e7383efd891510f22875f81071fcaf9",
+      "git_blob_sha1": "768569e42b1d6dc32e095b373fa8299b76c393a7"
+    },
+    {
+      "path": "legacy/original-asset-package/生成提示词/S14_56-60_医生结束语.md",
+      "bytes": 1927,
+      "sha256": "fbeef08b8191a82fe47e9f7fa81977cab1e1614e05d5948c8767dd6539f51f8d",
+      "git_blob_sha1": "c3142a20f022f13d25e961d8f29e75f2d3c58779"
+    },
+    {
+      "path": "legacy/original-asset-package/角色定妆/01_女主角_写实摄影定妆四视图.png",
+      "bytes": 2347920,
+      "sha256": "669d4737ee123c23d8835c5d9a084a43455a7a0dbf3c6f1c95d34d509ea8d180",
+      "git_blob_sha1": "915d84bfac8e30796c2b8ac466811b4bd2c2f164",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/角色定妆/02_女主角_插画角色正面.png",
+      "bytes": 93009,
+      "sha256": "8b24018a9cc9014298fb83e26f01ea19db0667520331597d2b2c9a18d52b8791",
+      "git_blob_sha1": "119548574aa9f9afe3fda445cd4c878e798ec7da",
+      "dimensions": [
+        186,
+        310
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/角色定妆/03_女主角_插画全身三视图.png",
+      "bytes": 105846,
+      "sha256": "6d6903159f494633489f5e4a86aec1fa2eb3b164f6de09b4b092a5378a7d8df3",
+      "git_blob_sha1": "d6bd84a34458bf7c5462c0b043cf63b7b13ed9d3",
+      "dimensions": [
+        220,
+        313
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/角色定妆/04_风湿免疫科女医生_插画定妆.png",
+      "bytes": 77278,
+      "sha256": "4692ac080f450511addb0c2eb05985d5abbf052648729577179b07498a1f0203",
+      "git_blob_sha1": "e3cdd56b046c1840804dd2b472d31fa3aeb2f155",
+      "dimensions": [
+        180,
+        332
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/角色定妆/05_免疫小卫士_角色动作.png",
+      "bytes": 105926,
+      "sha256": "aa042c9961ccaaa9731a0d7ddbf5a65dc9311e4f343be506f672fbb3d598baaf",
+      "git_blob_sha1": "62b6793e06ad79dfa427f5b51b5569651c29f37e",
+      "dimensions": [
+        261,
+        321
+      ]
+    },
+    {
+      "path": "legacy/original-asset-package/资产来源与尺寸.json",
+      "bytes": 4087,
+      "sha256": "ed310fb45f7b763b8abaaa94431621a72f15ff77823de7765983b195e10b160f",
+      "git_blob_sha1": "84f1e97df1c05c87c73698a4c8adc0a61ac1baf9"
+    },
+    {
+      "path": "legacy/original-asset-package/镜头与资产索引.csv",
+      "bytes": 2427,
+      "sha256": "2a1c741b494f8f66b733913a2ff5e550329f3e6477cc5e3f07fe92f24aa3c7ac",
+      "git_blob_sha1": "2f7386b45611686b02fdec0c692a6f2bf5ad2464"
+    },
+    {
+      "path": "legacy/realistic-2026-10-08-0841/image-gen-1(20261008-084131).png",
+      "bytes": 2394349,
+      "sha256": "deaa5bbf76378229a49bbb0503b9c7dd597722a5100531979379a38cc0bf4950",
+      "git_blob_sha1": "c5dc5031046c228959758cc71308a6685ac5a261",
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "path": "legacy/realistic-2026-10-08-0841/image-gen-2(20261008-084133).png",
+      "bytes": 1946234,
+      "sha256": "b04c0a89c4dcc6a97c110df8d3af91c95f4cac59fb28e017be9a96d5705434b9",
+      "git_blob_sha1": "97d34be4713a5d8b35f285c1b5a868d9a4a593d4",
+      "dimensions": [
+        1086,
+        1448
+      ]
+    },
+    {
+      "path": "legacy/realistic-2026-10-08-0841/image-gen-3(20261008-084135).png",
+      "bytes": 1955903,
+      "sha256": "cdd64b53bd99b4e2d52ed4dbd66a62126b726ca953b99de439f2bf60fb8b99cd",
+      "git_blob_sha1": "4e54b0a97bf75951a442ad7ef51ff4a6e22d9e57",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "legacy/realistic-2026-10-08-0841/image-gen-4(20261008-084137).png",
+      "bytes": 2064557,
+      "sha256": "d042904aea96d2efc226279e49aa86a319d883bc382ff654fa2ac6dcf4ddb876",
+      "git_blob_sha1": "38197a06355ed7a101ea0821d751c69f72bdd1eb",
+      "dimensions": [
+        941,
+        1672
+      ]
+    },
+    {
+      "path": "sources/doctor-reference.jpeg",
+      "bytes": 136733,
+      "sha256": "50cb7082242c9493041ed5b72a65e379defb329f7bf3e569b4ed94c2fc6c9121",
+      "git_blob_sha1": "6752d014bfa556d79b317037895a00d5fd713844",
+      "dimensions": [
+        1279,
+        1920
+      ]
+    },
+    {
+      "path": "sources/系统性红斑狼疮科普视频｜完整制作脚本（抖音竖屏 916，约55-60秒）.docx",
+      "bytes": 18650,
+      "sha256": "47a85c079c65280c061647102257f053d5d5cb383a18116e5d593f634cc25f4b",
+      "git_blob_sha1": "7a19d7101db598434dc8293bdd487ec0d8a13b4c"
+    }
+  ]
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "file": "角色定妆/02_女主角_插画角色正面.png",
+    "source": "concept",
+    "bbox": [
+      4,
+      120,
+      190,
+      430
+    ],
+    "width": 186,
+    "height": 310
+  },
+  {
+    "file": "角色定妆/03_女主角_插画全身三视图.png",
+    "source": "concept",
+    "bbox": [
+      251,
+      120,
+      471,
+      433
+    ],
+    "width": 220,
+    "height": 313
+  },
+  {
+    "file": "角色定妆/04_风湿免疫科女医生_插画定妆.png",
+    "source": "concept",
+    "bbox": [
+      478,
+      100,
+      658,
+      432
+    ],
+    "width": 180,
+    "height": 332
+  },
+  {
+    "file": "角色定妆/05_免疫小卫士_角色动作.png",
+    "source": "concept",
+    "bbox": [
+      660,
+      110,
+      921,
+      431
+    ],
+    "width": 261,
+    "height": 321
+  },
+  {
+    "file": "分镜示意/镜头参考/S01_00-04_镜前遮瑕.png",
+    "source": "timeline",
+    "bbox": [
+      8,
+      92,
+      227,
+      420
+    ],
+    "width": 219,
+    "height": 328
+  },
+  {
+    "file": "分镜示意/镜头参考/S02_04-06_涂防晒.png",
+    "source": "timeline",
+    "bbox": [
+      241,
+      93,
+      345,
+      225
+    ],
+    "width": 104,
+    "height": 132
+  },
+  {
+    "file": "分镜示意/镜头参考/S03_06-08_梳头掉发.png",
+    "source": "timeline",
+    "bbox": [
+      348,
+      95,
+      460,
+      224
+    ],
+    "width": 112,
+    "height": 129
+  },
+  {
+    "file": "分镜示意/镜头参考/S04_08-10_爬楼关节痛.png",
+    "source": "timeline",
+    "bbox": [
+      242,
+      229,
+      346,
+      417
+    ],
+    "width": 104,
+    "height": 188
+  },
+  {
+    "file": "分镜示意/镜头参考/S05_10-11_口腔不适示意.png",
+    "source": "timeline",
+    "bbox": [
+      346,
+      224,
+      462,
+      318
+    ],
+    "width": 116,
+    "height": 94
+  },
+  {
+    "file": "分镜示意/镜头参考/S06_11-12_泡沫尿示意.png",
+    "source": "timeline",
+    "bbox": [
+      346,
+      321,
+      460,
+      417
+    ],
+    "width": 114,
+    "height": 96
+  },
+  {
+    "file": "分镜示意/镜头参考/S07_12-17_免疫正常识别.png",
+    "source": "timeline",
+    "bbox": [
+      468,
+      90,
+      693,
+      262
+    ],
+    "width": 225,
+    "height": 172
+  },
+  {
+    "file": "分镜示意/镜头参考/S08_17-22_免疫误伤自身.png",
+    "source": "timeline",
+    "bbox": [
+      472,
+      264,
+      693,
+      419
+    ],
+    "width": 221,
+    "height": 155
+  },
+  {
+    "file": "分镜示意/镜头参考/S09_22-35_症状清单.png",
+    "source": "timeline",
+    "bbox": [
+      701,
+      91,
+      924,
+      421
+    ],
+    "width": 223,
+    "height": 330
+  },
+  {
+    "file": "分镜示意/镜头参考/S10_35-42_打伞户外.png",
+    "source": "timeline",
+    "bbox": [
+      7,
+      553,
+      126,
+      830
+    ],
+    "width": 119,
+    "height": 277
+  },
+  {
+    "file": "分镜示意/镜头参考/S11_42-46_诊室交流.png",
+    "source": "timeline",
+    "bbox": [
+      131,
+      552,
+      282,
+      695
+    ],
+    "width": 151,
+    "height": 143
+  },
+  {
+    "file": "分镜示意/镜头参考/S12_46-48_复查日历.png",
+    "source": "timeline",
+    "bbox": [
+      132,
+      694,
+      283,
+      828
+    ],
+    "width": 151,
+    "height": 134
+  },
+  {
+    "file": "分镜示意/镜头参考/S13_48-56_三项健康提醒.png",
+    "source": "timeline",
+    "bbox": [
+      298,
+      548,
+      493,
+      830
+    ],
+    "width": 195,
+    "height": 282
+  },
+  {
+    "file": "分镜示意/镜头参考/S14_56-60_医生结束语.png",
+    "source": "timeline",
+    "bbox": [
+      502,
+      553,
+      721,
+      829
+    ],
+    "width": 219,
+    "height": 276
+  },
+  {
+    "file": "分镜示意/镜头参考/S15_备用_户外城市落日.png",
+    "source": "concept",
+    "bbox": [
+      677,
+      1090,
+      920,
+      1308
+    ],
+    "width": 243,
+    "height": 218
+  },
+  {
+    "file": "分镜示意/镜头参考/S16_备用_医疗器官图标.png",
+    "source": "concept",
+    "bbox": [
+      237,
+      1391,
+      448,
+      1545
+    ],
+    "width": 211,
+    "height": 154
+  }
+]
